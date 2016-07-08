@@ -23,8 +23,10 @@ For every give you will recieve a free get
  Goal
    allow user to swap and recycle clothes
 
-###Current Market
-   * [ name of link](address) 
+### Current Market
+   * [Vinted](https://play.google.com/store/apps/details?id=com.vinted&hl=en&gl=us)
+    * Might be bad customer service. A review said they sold 2 items and never got money for it.
+    * Something
    *
    *
 

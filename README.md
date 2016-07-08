@@ -31,8 +31,6 @@ For every give you will recieve a free get
    *
 
 ### Todo
-- [ ] Add html form submit user
-- [ ] Something here 2
 - [ ] Add Laravel Framework
 
 

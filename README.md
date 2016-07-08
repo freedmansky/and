@@ -37,6 +37,10 @@ Typically mothers take out grown clothes and donate them to a thrift store or an
 ### Todo
 - [ ] Add Laravel Framework
 
+### Definitions
+* Package - ...
+* Giver - ...
+* Getter - ...
 
 
 

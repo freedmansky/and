@@ -9,11 +9,17 @@ Typically mothers take out grown clothes and donate them to a thrift store or an
 
 ## Features
   * Users signup as families
-  * Child users remain anonymous
   * Add children to your family account
+   * Child users remain anonymous
+  * Create a package of clothing
+   * Add details to package
+  *List of all available packages 
+  * Matching wanted and created packages 
+  * Locate clothing you need
+   * Determine meet location 
   * Give away unwanted clothing
   * Get wanted clothing
-  * Locate clothing you need
+
 
 
 ### Notes

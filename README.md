@@ -1,6 +1,9 @@
 # Community Clothing Swap or Give and Get
 A web application that allows families to swap childrens clothing.
 
+## Purpose
+Typically mothers take out grown clothes and donate them to a thrift store or another non-profit organization.
+
 ## How it Works
 For every give you will recieve a free get 
 

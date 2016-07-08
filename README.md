@@ -13,7 +13,7 @@ Typically mothers take out grown clothes and donate them to a thrift store or an
    * Child users remain anonymous
   * Create a package of clothing
    * Add details to package
-  *List of all available packages 
+  * List of all available packages 
   * Matching wanted and created packages 
   * Locate clothing you need
    * Determine meet location 

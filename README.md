@@ -5,13 +5,13 @@ A web application that allows families to swap childrens clothing.
 Typically mothers take out grown clothes and donate them to a thrift store or another non-profit organization.
 
 ## How it Works
-For every give you will recieve a free get 
+ Sign up as a user. Someone that wants to give clothes selects what they want to give away for what gender, size then from a list provide the quanity of each item. post a give and that will be visable to getters. Getters can access a list that has available items. For every give you will recieve a free get. Getters will choose package and the giver will be notified through the application. A meeting location will be established. Giver and getting will meet at established location to exhange the package.
 
 ## Features
   * Users signup as families
   * Child users remain anonymous
-   Family -Family Name, city,
-   Children Dylan and Annabelle, age, gender
+  * Give away unwanted clothing
+  * Locate clothing you need 
    Items
    Rid off
    Need

@@ -12,13 +12,16 @@ Typically mothers take out grown clothes and donate them to a thrift store or an
   * Add children to your family account
    * Child users remain anonymous
   * Create a package of clothing
-   * Add details to package
-  * List of all available packages 
+   * Add details to unwanted package
+  * Request a package
+   * Add details to wanted package
+  * View a list of all available packages 
   * Matching wanted and created packages 
   * Locate clothing you need
-   * Determine meet location 
+  * Determine meet location 
   * Give away unwanted clothing
   * Get wanted clothing
+  * Package is deleted after they swap
 
 
 

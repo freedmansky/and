@@ -10,12 +10,10 @@ Typically mothers take out grown clothes and donate them to a thrift store or an
 ## Features
   * Users signup as families
   * Child users remain anonymous
+  * Add children to your family account
   * Give away unwanted clothing
-  * Locate clothing you need 
-   Items
-   Rid off
-   Need
-   Sugggested Meet Up spots
+  * Get wanted clothing
+  * Locate clothing you need
 
 
 ### Notes

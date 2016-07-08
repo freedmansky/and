@@ -5,7 +5,8 @@ A web application that allows families to swap childrens clothing.
 For every give you will recieve a free get 
 
 ## Features
-  Create a Family User
+  * Users signup as families
+  * Child users remain anonymous
    Family -Family Name, city,
    Children Dylan and Annabelle, age, gender
    Items

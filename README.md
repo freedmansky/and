@@ -43,6 +43,23 @@ Typically mothers take out grown clothes and donate them to a thrift store or an
 
 ### Todo
 - [ ] Add Laravel Framework
+- [ ] Add HTML form for family sign up
+- [ ] Establish data set for family
+- [ ] Add HTML form for children
+- [ ] Establish data set for children
+- [ ] Add HTML form for create a package
+- [ ] Establish data set for create a package
+- [ ] Add HTML form for request a package
+- [ ] Establish data set for request a package
+- [ ] Create a table for list of packages
+- [ ] Add HTML page of to view available packages
+- [ ] Add HTML page to match list of unwanted and wanted package
+- [ ] Add database for familes
+- [ ] Add HTML page to create a location
+- [ ] Add HTML page to view location
+- [ ] Add database table to view the location
+- [ ] Change database status of package
+
 
 ### Definitions
 * Package - ...

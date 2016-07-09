@@ -22,6 +22,7 @@ Typically mothers take out grown clothes and donate them to a thrift store or an
   * Give away unwanted clothing
   * Get wanted clothing
   * Package is deleted after they swap
+  * Communication with givers and getters
 
 
 
@@ -59,6 +60,8 @@ Typically mothers take out grown clothes and donate them to a thrift store or an
 - [ ] Add HTML page to view location
 - [ ] Add database table to view the location
 - [ ] Change database status of package
+- [ ] Add HTML page to add a comment
+- [ ] Add HTML page to view a comment
 
 
 ### Definitions

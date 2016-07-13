@@ -44,11 +44,11 @@ Typically mothers take out grown clothes and donate them to a thrift store or an
 
 ### Todo
 - [ ] Add Laravel Framework
-- [ ] Add HTML form for family sign up
+- [x] Add HTML form for family sign up
 - [ ] Establish data set for family
 - [ ] Add HTML form for children
 - [ ] Establish data set for children
-- [ ] Add HTML form for create a package
+- [x] Add HTML form for create a package
 - [ ] Establish data set for create a package
 - [ ] Add HTML form for request a package
 - [ ] Establish data set for request a package

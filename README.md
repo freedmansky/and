@@ -1,8 +1,13 @@
 # Community Clothing Swap or Give and Get
 A web application that allows families to swap childrens clothing.
 
+
+
 ## Purpose
 Typically mothers take out grown clothes and donate them to a thrift store or another non-profit organization.
+
+## Location of App
+You can find this application running at [Clothing Swap](http://jastcode.com/projects/and/laravel/public/)
 
 ## How it Works
  Families signup on our platform. Then they add children profiles to their family account. Next the family has the ablity to give clothes by creating a package.  This package will have details such as: gender, size, quanity of each item.  Once a package is created, it will be visable to any families wanting to get clothes matching their specific package request. When a getter finds the desired package, they have the ability to create a meeting location together.  Giver and getting will meet at mutual established location to physically exhange the package in person.

@@ -46,7 +46,7 @@ You can find this application running at [Clothing Swap](http://jastcode.com/pro
    *
 
 ### Todo
-- [ ] Add Laravel Framework
+- [x] Add Laravel Framework
 - [x] Add HTML form for family sign up
 - [ ] Establish data set for family
 - [ ] Add HTML form for children

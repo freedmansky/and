@@ -13,5 +13,17 @@
 
 Route::get('/', function()
 {
-	return View::make('hello');
+	return View::make('index');
 });
+
+Route::get('signup', function()
+{
+	return View::make('signup');
+});
+
+Route::get('create-package', function()
+{
+	return View::make('create_package');
+});
+
+

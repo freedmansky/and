@@ -8,12 +8,10 @@ Typically mothers take out grown clothes and donate them to a thrift store or an
 You can find this application running at [Clothing Swap](http://jastcode.com/projects/and/laravel/public/)
 
 ## How it Works
- Families signup on our platform. Then they add children profiles to their family account. Next the family has the ablity to give clothes by creating a package.  This package will have details such as: gender, size, quanity of each item.  Once a package is created, it will be visable to any families wanting to get clothes matching their specific package request. When a getter finds the desired package, they have the ability to create a meeting location together.  Giver and getting will meet at mutual established location to physically exhange the package in person.
+ Families signup on our platform. Next the family has the ablity to give clothes by creating a package.  This package will have details such as: gender, size, quanity of each item.  Once a package is created, it will be visable to any families wanting to get clothes matching their specific package request. When a getter finds the desired package, they have the ability to create a meeting location together.  Giver and getting will meet at mutual established location to physically exhange the package in person.
 
 ## Features
   * Users signup as families
-  * Add children to your family account
-   * Child users remain anonymous
   * Create a package of clothing
    * Add details to unwanted package
   * Request a package
@@ -49,8 +47,6 @@ You can find this application running at [Clothing Swap](http://jastcode.com/pro
 - [x] Add Laravel Framework
 - [x] Add HTML form for family sign up
 - [ ] Establish data set for family
-- [ ] Add HTML form for children
-- [ ] Establish data set for children
 - [x] Add HTML form for create a package
 - [ ] Establish data set for create a package
 - [ ] Add HTML form for request a package
@@ -75,6 +71,11 @@ You can find this application running at [Clothing Swap](http://jastcode.com/pro
 ### Backlog Features
 *  (for every give you will recieve a get)
 *   Additionaly, when a family gives a package they are rewarded access to view other packages.
+*   Add children to your family account
+* Child users remain anonymous
+* Then they add children profiles to their family account. 
+- [ ] Add HTML form for children
+- [ ] Establish data set for children
 
 
 
